@@ -1,3 +1,4 @@
 /.idea
+/schemas
 env.sh
 .cache
